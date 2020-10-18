@@ -13,7 +13,7 @@ public class gg {
 		String s[] = new String [100] ;
 		Scanner sc=new Scanner(System.in);
         System.out.println("Enter number of words");
-       
+       int N=sc.nextInt();
         for(int i=0;i<N;i++)
         {
              s[i]=sc.nextLine();
