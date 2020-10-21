@@ -28,6 +28,7 @@ public class gg {
         			return ;
         				}
         		System.out.println( s[i].compareTo(s[j]));
+			System.out.println();
         	}
         }
   
